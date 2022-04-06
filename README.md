@@ -7,3 +7,4 @@
 * [Codepen](https://codepen.io/npgb-the-sasster)
 * [Github](https://github.com/NPGB)
 * [Github](https://gitlab.com/NPGB)
+{@gist: https://github.com/NPGB/NPGB/edit/master/README.md}

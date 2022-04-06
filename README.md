@@ -4,6 +4,6 @@
 
 
 * email [giabao050598@gmail.com](mailto:giabao050598@gmail.com)
-* {@codepen: https://codepen.io/npgb-the-sasster}
-* {@gist: https://github.com/NPGB}
-* {@gist: https://gitlab.com/NPGB}
+* [Codepen](https://codepen.io/npgb-the-sasster)
+* [Github](https://github.com/NPGB)
+* [Github](https://gitlab.com/NPGB)
